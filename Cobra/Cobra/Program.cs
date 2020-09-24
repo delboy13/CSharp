@@ -10,14 +10,21 @@ namespace Cobra
     {
         static void Main(string[] args)
         {
-            Exams2 school = new Exams2();
-            Exams2 University = new Exams2(200, 90);
-            school.physics(99);
-            school.chemistry(99);
-            school.showresults();
-            University.physics(2);
-            University.chemistry(90);
-            University.showresults();
+            //Exams2 school = new Exams2();
+            //Exams2 University = new Exams2(200, 90);
+            //school.physics(99);
+            //school.chemistry(99);
+            //school.showresults();
+            //University.physics(2);
+            //University.chemistry(90);
+            //University.showresults();
+
+            MathD M = new MathD();
+            M.add(20, 5);
+            M.subtract(20, 2.1f);
+            M.multiply(20, 5);
+            M.divide(20, 4);
+
 
             Console.Read();
         }
