@@ -1,0 +1,65 @@
+           int phy,che,mat,total;
+            float per;
+            phy = 89;
+                che = 73;
+                mat = 78;
+                total = phy + che + mat;
+            per = (float) total * 100 / 450;
+            Console.Write("The total marks are: " );
+            Console.WriteLine(total);
+            Console.Write("the percentage is: ");
+            Console.WriteLine(per);
+            
+            if (per >= 70) {
+                Console.Write("you have passed");
+                    }
+            else {
+                Console.Write("You have failed");
+
+            }
+            Console.Read();
+
+
+-------------------------------
+int a;
+            a = 100;
+            while (a > 1 ) {
+                Console.WriteLine("There are  " + a + " green bottles of bubbly on the wall");
+                    a = a - 1;
+                    }
+            Console.Read();
+
+--------------------------------------
+          int A;
+            for (A = 1; A <= 10; A = A++) {
+            Console.WriteLine("Hello" + A);
+                }
+
+-------------------------------------------------
+ class Operations
+    {
+        public int No1, No2;
+        public void message()
+        {
+            Console.WriteLine("Hello");
+            Console.WriteLine("My Amigos");
+        }
+        public void Add(int x, int y)
+        {
+            int result = x + y;
+            Console.WriteLine("the result is " + (x +y));
+
+ select productID, sum(quantity)from sales where dateofsales =week(curdate())-1 group by productID order by sum(quantity) desc;
+
+ select productID, sum(quantity)from sales where dateofsales =curdate() group by productID order by sum(quantity) desc;
+
+
+
+
+
+
+
+
+
+
+
