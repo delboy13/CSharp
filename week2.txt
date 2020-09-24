@@ -1,0 +1,63 @@
+# Week 2 Challenge
+
+## Tasks
+
+For this week's challenge, you are tasked with meeting the following requirements:
+
+* Create a database for a shop 
+* Create 4 tables within the database
+    * **Category** 
+    * **Subcategory**
+    * **Product**
+    * **Sales**
+* Create the tables so that they include the corresponding columns: 
+    * Category Table:
+
+    | CategoryID  | CategoryName |
+    |-------------|--------------|
+    |  ** | **   |
+
+    * Subcategory Table:
+
+    | SubCategoryID | CategoryID  | SubCategoryName |
+    |---------------|-------------|-----------------|
+    | **   |  ** | **      |
+
+    * Product Table:
+
+    | SubCategoryID | ProductID   | ProductName |
+    |---------------|-------------|-------------|
+    | **    |  ** | **  |
+
+    * Sales Table:
+
+    | SalesID | ProductID | Quantity | UnitPrice | DateOfSale |
+    |---------|-----------|----------|-----------|------------|
+    | \*\*    | \*\*      | \*\*     | \*\*      | \*\*       |
+
+* Populate the tables with dummy data
+* Create an ERD Diagram to show the relationships between the tables
+* Write queries for the following: 
+    1. The most popular product sold on a specific date.
+    2. The most popular product sold last week. 
+    3. The most popular product sold on a specific month.
+    4. The most popular subcategory for a specific date.
+    5. The most popular subcategory for last week.
+    6. The most popular subcategory for a specific month.
+    7. The most popular category for a specific date.
+
+## Stretch Goals
+
+    8. The most popular category for last week.
+    9. The most popular category for a specific month.
+
+## Submission
+
+You should create a public Github repository that contains your ERD and queries.
+You are also expected to make a README.md file and to fill this README with information of this challenge. It should contain the following headers.
+
+- What was the challenge?
+- How I expected the challenge to go.
+- What went well?
+- What didn't go as planned?
+- Possible improvements for future challenges
