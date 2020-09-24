@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\obj\Debug\Cobra.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\obj\Debug\Cobra.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\bin\Debug\Cobra.exe.config
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\bin\Debug\Cobra.exe
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\bin\Debug\Cobra.pdb
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\obj\Debug\Cobra.exe
+C:\Users\Administrator\Desktop\CSharp\Cobra\Cobra\obj\Debug\Cobra.pdb
