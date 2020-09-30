@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\bin\Debug\Wednesday.exe.config
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\bin\Debug\Wednesday.exe
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\bin\Debug\Wednesday.pdb
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\obj\Debug\Wednesday.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\obj\Debug\Wednesday.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\obj\Debug\Wednesday.exe
+C:\Users\Administrator\source\repos\Wednesday\Wednesday\obj\Debug\Wednesday.pdb

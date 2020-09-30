@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\bin\Debug\Tuesday.exe.config
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\bin\Debug\Tuesday.exe
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\bin\Debug\Tuesday.pdb
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\obj\Debug\Tuesday.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\obj\Debug\Tuesday.exe
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\obj\Debug\Tuesday.pdb
+C:\Users\Administrator\source\repos\Tuesday\Tuesday\obj\Debug\Tuesday.csprojAssemblyReference.cache
